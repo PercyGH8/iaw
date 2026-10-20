@@ -17,11 +17,11 @@ En este ejercicio se realiza un PR sobre el repositorio `lgarciavelazquez/prueba
 
 Desde la web de GitHub, en el repositorio `lgarciavelazquez/prueba-pr-iaw_202627`, se pulsa **Fork**. Se elige como propietario mi cuenta (`PercyGH8`), se mantiene el nombre del repositorio y se pulsa **Create fork**.
 
-![Creación del fork](imagess/17.png)
+![Creación del fork](img/17.png)
 
 Resultado: el repositorio queda copiado en mi cuenta y GitHub indica que procede del original (*forked from lgarciavelazquez/prueba-pr-iaw_202627*).
 
-![Fork creado en mi cuenta](imagess/16.png)
+![Fork creado en mi cuenta](img/16.png)
 
 ---
 
@@ -35,7 +35,7 @@ git clone https://github.com/PercyGH8/prueba-pr-iaw_202627.git
 cd prueba-pr-iaw_202627
 ```
 
-![Clonado del fork](imagess/18.png)
+![Clonado del fork](img/18.png)
 
 ---
 
@@ -71,7 +71,7 @@ nano files/PGH.md
 
 El fichero responde a las tres preguntas y utiliza varias marcas de Markdown: títulos, negrita, cursiva, cita, listas, línea horizontal y enlace.
 
-![Edición de files/PGH.md con nano](imagess/19.png)
+![Edición de files/PGH.md con nano](img/19.png)
 
 ---
 
@@ -87,7 +87,7 @@ git push --set-upstream origin mi-aportacion
 
 En la captura se ve que un `git push` sin configurar la rama remota da error, y que con `--set-upstream origin mi-aportacion` la rama se sube correctamente. A la izquierda se muestra el fichero ya renderizado en GitHub.
 
-![Commit, push y vista del fichero en GitHub](imagess/20.png)
+![Commit, push y vista del fichero en GitHub](img/20.png)
 
 ---
 
@@ -95,7 +95,7 @@ En la captura se ve que un `git push` sin configurar la rama remota da error, y 
 
 Tras el push, en mi fork aparece el aviso *mi-aportacion had recent pushes* con el botón **Compare & pull request**. La rama indica que está 1 commit por delante y 8 por detrás del `main` del repositorio original.
 
-![Aviso de Compare & pull request](imagess/21.png)
+![Aviso de Compare & pull request](img/21.png)
 
 Antes de crear el PR se comprueba que:
 
@@ -106,7 +106,7 @@ Se pone un título significativo y se pulsa **Create pull request**. El PR queda
 
 URL del Pull Request: <https://github.com/lgarciavelazquez/prueba-pr-iaw_202627/pull/7>
 
-![Pull Request #7 abierto](imagess/22.png)
+![Pull Request #7 abierto](img/22.png)
 
 ---
 
@@ -123,4 +123,4 @@ git push origin main
 
 ---
 
-![Pull Request #7 abierto](imagess/23.png)
+![Pull Request #7 abierto](img/23.png)

@@ -6,7 +6,7 @@
 
    ## Actividad1_1: Git, GitHub, Markdown y GitHub Pages
 
-   * [Ejercicio 1](actividad1_1/Ejercicio1.md)
-   * [Ejercicio 2](actividad1_1/Ejercicio2.md)
-   * [Ejercicio 3](actividad1_1/Ejercicio3.md)
-   * [Ejercicio 4](actividad1_1/Ejercicio4.md)
+   * [Ejercicio 1](actividad1_1/ejercicio1.md)
+   * [Ejercicio 2](actividad1_1/ejercicio2.md)
+   * [Ejercicio 3](actividad1_1/ejercicio3.md)
+   * [Ejercicio 4](actividad1_1/ejercicio4.md)
